@@ -14,7 +14,7 @@ public class Fachada {
     public Fachada(){
         url = "jdbc:postgresql://localhost:5432/EmpresaABC";
         usuario="postgres";
-        pwd ="cj1428907cr";
+        pwd ="96020313509";
     }
     
     public Connection conectarABD(){
